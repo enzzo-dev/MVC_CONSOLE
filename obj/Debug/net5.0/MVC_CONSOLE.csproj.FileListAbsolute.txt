@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\bin\Debug\net5.0\MVC_CONSOLE.exe
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\bin\Debug\net5.0\MVC_CONSOLE.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\bin\Debug\net5.0\MVC_CONSOLE.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\bin\Debug\net5.0\MVC_CONSOLE.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\bin\Debug\net5.0\MVC_CONSOLE.dll
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\bin\Debug\net5.0\ref\MVC_CONSOLE.dll
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\bin\Debug\net5.0\MVC_CONSOLE.pdb
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.dll
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\ref\MVC_CONSOLE.dll
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.pdb
+C:\Users\User\OneDrive\Área de Trabalho\MVC_CONSOLE\obj\Debug\net5.0\MVC_CONSOLE.genruntimeconfig.cache
