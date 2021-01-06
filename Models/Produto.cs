@@ -12,6 +12,8 @@ namespace MVC_CONSOLE.Models
 
         private const string PATH  = "Database/Produto.csv";
 
+
+        //Método construtor para dividir a pasta do arquivo
         public Produto()
         {
             string pasta = PATH.Split("/")[0];
@@ -27,6 +29,8 @@ namespace MVC_CONSOLE.Models
             }
         }
 
+
+        //Ler lista de produtos
         public List<Produto> Ler()
         {
             List<Produto> produtos = new List<Produto>();
@@ -46,6 +50,19 @@ namespace MVC_CONSOLE.Models
             }
 
             return produtos;
+        }
+
+
+        //Atribuir informações em CSV dinamicamente
+        public void Inserir(Produto p)
+        {
+            string[] linhas = {PrepararLinhaCSV(p)};
+            File.AppendAllLines(PATH, linhas);
+        }
+
+        public string PrepararLinhaCSV(Produto produtosCSV)
+        {
+            return $"{produtosCSV.Codigo};{produtosCSV.Nome};{produtosCSV.Preco}\n";
         }
         
     }
